@@ -1,0 +1,4 @@
+100
+5 x M16 5 40
+5 x AmmoBox 10 100
+2 x GreenadeBox 15 80
